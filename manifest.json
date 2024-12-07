@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-gospel-study",
-	"name": "Gospel Study",
-	"version": "0.6.0",
+	"id": "obsidian-meal-ideas",
+	"name": "Meal Idea Generator",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Import scripture verses or other quotes into an Obsidian note by simply pasting in the Gospel Library app share link (i.e. of the format \"https://www.churchofjesuschrist.org/study/*\")",
+	"description": "Generating random meal ideas based on a framework by Ethan Chlebowski.",
 	"author": "Ky Kartchner",
 	"authorUrl": "https://github.com/kkartch0",
 	"isDesktopOnly": false
